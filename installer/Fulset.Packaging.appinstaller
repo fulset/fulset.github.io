@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://fulset.github.io/installer/Fulset.Packaging.appinstaller"
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="14ddccf4-7d96-4050-9e23-036e3dccf768"
+		Version="1.0.1.0"
+		Publisher="CN=Fulset Technology"
+		Uri="https://fulset.github.io/installer/Fulset.Packaging_1.0.1.0_Debug_Test/Fulset.Packaging_1.0.1.0_x64_Debug.appxbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
